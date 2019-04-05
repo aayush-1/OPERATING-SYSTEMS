@@ -1,0 +1,176 @@
+Process 4: processing time=10; deadline:25; period:25 joined the system at time 0
+Process 9: processing time=15; deadline:28; period:28 joined the system at time 0
+Process 5: processing time=16; deadline:30; period:30 joined the system at time 0
+Process 1: processing time=20; deadline:50; period:50 joined the system at time 0
+Process 2: processing time=35; deadline:50; period:50 joined the system at time 0
+Process 7: processing time=40; deadline:55; period:55 joined the system at time 0
+Process 8: processing time=30; deadline:65; period:65 joined the system at time 0
+Process 3: processing time=45; deadline:70; period:70 joined the system at time 0
+Process 6: processing time=50; deadline:70; period:70 joined the system at time 0
+Process 10: processing time=70; deadline:100; period:100 joined the system at time 0
+Process 4 starts execution at time 1
+Process 4 finishes execution at time 10
+Process 9 starts execution at time 11
+Process 9 finishes execution at time 25
+Process 4 starts execution at time 26
+Process 5 missed its deadline at time 30
+Process 4 finishes execution at time 35
+Process 9 starts execution at time 36
+Process 9 finishes execution at time 50
+Process 1 missed its deadline at time 50
+Process 2 missed its deadline at time 50
+Process 4 starts execution at time 51
+Process 7 missed its deadline at time 55
+Process 4 finishes execution at time 60
+Process 5 missed its deadline at time 60
+Process 9 starts execution at time 61
+Process 8 missed its deadline at time 65
+Process 3 missed its deadline at time 70
+Process 6 missed its deadline at time 70
+Process 9 finishes execution at time 75
+Process 4 starts execution at time 76
+Process 4 finishes execution at time 85
+Process 9 starts execution at time 86
+Process 5 missed its deadline at time 90
+Process 9 finishes execution at time 100
+Process 1 missed its deadline at time 100
+Process 2 missed its deadline at time 100
+Process 10 missed its deadline at time 100
+Process 4 starts execution at time 101
+Process 4 finishes execution at time 110
+Process 7 missed its deadline at time 110
+Process 5 starts execution at time 111
+Process 5 is preempted by Process 9 at time 112. Remaining processing time:14
+Process 9 starts execution at time 113
+Process 5 missed its deadline at time 120
+Process 9 is preempted by Process 4 at time 125. Remaining processing time:2
+Process 4 starts execution at time 126
+Process 8 missed its deadline at time 130
+Process 4 finishes execution at time 135
+Process 9 resumes its execution at time 136
+Process 9 finishes execution at time 137
+Process 5 starts execution at time 138
+Process 3 missed its deadline at time 140
+Process 6 missed its deadline at time 140
+Process 5 is preempted by Process 9 at time 140. Remaining processing time:13
+Process 9 starts execution at time 141
+Process 5 missed its deadline at time 150
+Process 1 missed its deadline at time 150
+Process 2 missed its deadline at time 150
+Process 9 is preempted by Process 4 at time 150. Remaining processing time:5
+Process 4 starts execution at time 151
+Process 4 finishes execution at time 160
+Process 9 resumes its execution at time 161
+Process 9 finishes execution at time 165
+Process 7 missed its deadline at time 165
+Process 5 starts execution at time 166
+Process 5 is preempted by Process 9 at time 168. Remaining processing time:13
+Process 9 starts execution at time 169
+Process 9 is preempted by Process 4 at time 175. Remaining processing time:8
+Process 4 starts execution at time 176
+Process 5 missed its deadline at time 180
+Process 4 finishes execution at time 185
+Process 9 resumes its execution at time 186
+Process 9 finishes execution at time 193
+Process 5 starts execution at time 194
+Process 8 missed its deadline at time 195
+Process 5 is preempted by Process 9 at time 196. Remaining processing time:13
+Process 9 starts execution at time 197
+Process 1 missed its deadline at time 200
+Process 2 missed its deadline at time 200
+Process 10 missed its deadline at time 200
+Process 9 is preempted by Process 4 at time 200. Remaining processing time:11
+Process 4 starts execution at time 201
+Process 4 finishes execution at time 210
+Process 5 missed its deadline at time 210
+Process 3 missed its deadline at time 210
+Process 6 missed its deadline at time 210
+Process 9 resumes its execution at time 211
+Process 7 missed its deadline at time 220
+Process 9 finishes execution at time 221
+Process 5 starts execution at time 222
+Process 5 is preempted by Process 9 at time 224. Remaining processing time:13
+Process 9 starts execution at time 225
+Process 9 is preempted by Process 4 at time 225. Remaining processing time:14
+Process 4 starts execution at time 226
+Process 4 finishes execution at time 235
+Process 9 resumes its execution at time 236
+Process 5 missed its deadline at time 240
+Process 9 finishes execution at time 249
+Process 5 starts execution at time 250
+Process 1 missed its deadline at time 250
+Process 2 missed its deadline at time 250
+Process 5 is preempted by Process 9 at time 252. Remaining processing time:13
+Process 9 starts execution at time 253
+Process 8 missed its deadline at time 260
+Process 9 finishes execution at time 267
+Process 5 resumes its execution at time 268
+Process 5 missed its deadline at time 270
+Process 5 starts execution at time 271
+Process 7 missed its deadline at time 275
+Process 3 missed its deadline at time 280
+Process 6 missed its deadline at time 280
+Process 5 finishes execution at time 286
+Process 1 starts execution at time 287
+Process 1 missed its deadline at time 300
+Process 2 missed its deadline at time 300
+Process 10 missed its deadline at time 300
+Process 1 starts execution at time 301
+Process 1 finishes execution at time 320
+Process 2 starts execution at time 321
+Process 8 missed its deadline at time 325
+Process 7 missed its deadline at time 330
+Process 2 missed its deadline at time 350
+Process 3 missed its deadline at time 350
+Process 6 missed its deadline at time 350
+Process 1 starts execution at time 351
+Process 1 finishes execution at time 370
+Process 2 starts execution at time 371
+Process 7 missed its deadline at time 385
+Process 8 missed its deadline at time 390
+Process 2 missed its deadline at time 400
+Process 10 missed its deadline at time 400
+Process 1 starts execution at time 401
+Process 1 finishes execution at time 420
+Process 3 missed its deadline at time 420
+Process 6 missed its deadline at time 420
+Process 2 starts execution at time 421
+Process 7 missed its deadline at time 440
+Process 2 missed its deadline at time 450
+Process 1 starts execution at time 451
+Process 8 missed its deadline at time 455
+Process 1 finishes execution at time 470
+Process 2 starts execution at time 471
+Process 3 missed its deadline at time 490
+Process 6 missed its deadline at time 490
+Process 7 missed its deadline at time 495
+Process 2 missed its deadline at time 500
+Process 10 missed its deadline at time 500
+Process 7 starts execution at time 501
+Process 8 missed its deadline at time 520
+Process 7 finishes execution at time 540
+Process 8 starts execution at time 541
+Process 3 missed its deadline at time 560
+Process 6 missed its deadline at time 560
+Process 8 finishes execution at time 570
+Process 3 starts execution at time 571
+Process 3 is preempted by Process 8 at time 585. Remaining processing time:30
+Process 8 starts execution at time 586
+Process 10 missed its deadline at time 600
+Process 8 finishes execution at time 615
+Process 3 resumes its execution at time 616
+Process 3 missed its deadline at time 630
+Process 6 missed its deadline at time 630
+Process 3 starts execution at time 631
+Process 3 finishes execution at time 675
+Process 6 starts execution at time 676
+Process 6 missed its deadline at time 700
+Process 10 missed its deadline at time 700
+Process 10 starts execution at time 701
+Process 10 finishes execution at time 770
+CPU is idle till time 800
+Process 10 starts execution at time 801
+Process 10 finishes execution at time 870
+CPU is idle till time 900
+Process 10 starts execution at time 901
+Process 10 finishes execution at time 970

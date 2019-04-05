@@ -1,0 +1,51 @@
+Process 2: processing time=35; deadline:50; period:50 joined the system at time 0
+Process 4: processing time=10; deadline:25; period:25 joined the system at time 0
+Process 4 starts execution at time 1
+Process 4 finishes execution at time 10
+Process 2 starts execution at time 11
+Process 2 is preempted by Process 4 at time 25. Remaining processing time:20
+Process 4 starts execution at time 26
+Process 4 finishes execution at time 35
+Process 2 missed its deadline at time 50
+Process 4 starts execution at time 51
+Process 4 finishes execution at time 60
+Process 2 starts execution at time 61
+Process 2 is preempted by Process 4 at time 75. Remaining processing time:20
+Process 4 starts execution at time 76
+Process 4 finishes execution at time 85
+Process 2 missed its deadline at time 100
+Process 4 starts execution at time 101
+Process 4 finishes execution at time 110
+Process 2 starts execution at time 111
+Process 2 is preempted by Process 4 at time 125. Remaining processing time:20
+Process 4 starts execution at time 126
+Process 4 finishes execution at time 135
+Process 2 missed its deadline at time 150
+Process 4 starts execution at time 151
+Process 4 finishes execution at time 160
+Process 2 starts execution at time 161
+Process 2 is preempted by Process 4 at time 175. Remaining processing time:20
+Process 4 starts execution at time 176
+Process 4 finishes execution at time 185
+Process 2 missed its deadline at time 200
+Process 4 starts execution at time 201
+Process 4 finishes execution at time 210
+Process 2 starts execution at time 211
+Process 2 is preempted by Process 4 at time 225. Remaining processing time:20
+Process 4 starts execution at time 226
+Process 4 finishes execution at time 235
+Process 2 missed its deadline at time 250
+Process 2 starts execution at time 251
+Process 2 finishes execution at time 285
+CPU is idle till time 300
+Process 2 starts execution at time 301
+Process 2 finishes execution at time 335
+CPU is idle till time 350
+Process 2 starts execution at time 351
+Process 2 finishes execution at time 385
+CPU is idle till time 400
+Process 2 starts execution at time 401
+Process 2 finishes execution at time 435
+CPU is idle till time 450
+Process 2 starts execution at time 451
+Process 2 finishes execution at time 485

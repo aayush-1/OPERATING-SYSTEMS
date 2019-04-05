@@ -1,0 +1,10 @@
+Average time taken by Reader thread in RW Algorithm: 0.000000Average time taken by Writer thread in RW Algorithm: 0.000000Average time taken by Reader thread in RW Algorithm: 0.000000Average time taken by Writer thread in RW Algorithm: 0.000000Average time taken by Reader thread in RW Algorithm: 0.000000
+Average time taken by Writer thread in RW Algorithm: 0.066667
+Average time taken by Reader thread in RW Algorithm: 0.500000
+Average time taken by Writer thread in RW Algorithm: 3.400000
+Average time taken by Reader thread in Fair-RW Algorithm: 8.820000
+Average time taken by Writer thread in Fair-RW Algorithm: 6.726667
+Average time taken by Reader thread in Fair-RW Algorithm: 11.310000
+Average time taken by Writer thread in Fair-RW Algorithm: 10.390000
+Average time taken by Reader thread in Fair-RW Algorithm: 9.780000
+Average time taken by Writer thread in Fair-RW Algorithm: 9.455000
